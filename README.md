@@ -1,2 +1,5 @@
 # GitF
 GITF
+
+
+## Project notes
